@@ -1,15 +1,59 @@
-# face_it
-Le Wagon final project titled Face It. In this project, we will classify emotions on human faces.
+😃 Title: Face It – We've got feelings
+📌 Project Overview
 
-Using this dataset: https://www.kaggle.com/datasets/sudarshanvaidya/random-images-for-face-emotion-recognition,
+📂 Datasets
+1. Random Images for Face Emotion Recognition
+https://www.kaggle.com/datasets/sudarshanvaidya/random-images-for-face-emotion-recognition,
 
-We trained a baseline model where we built the model architecture ourselves. Accuracy was always between 35-45%
+2. FER 2013 Dataset (Facial-Emotion-Recognition )
+https://www.kaggle.com/code/ray27th/facial-emotion-recognition-67-4/input
+Chosen as the main dataset (35K labeled images in CSV format)
+------------------------------------------------------------------------------------------------
 
-We then used different pre-trained models, fine-tuned them and also added data augmentation: 
-MobileNetV2 - accuracy 40%
-EfficientNetB0 - accuracy 47%
+📅 01 September 2025
+🚀 Project Kickoff – Face It
 
-Next steps, we are going to use another kaggle dataset, the 
-Facial-Emotion-Recognition (https://www.kaggle.com/code/ray27th/facial-emotion-recognition-67-4/input) 
+🧪 Experiments with Random Images for Face Emotion Recognition Dataset
 
-We will create a baseline model, plus try out 4 different pre-trained models for transfer learning
+✅ Baseline Model (custom architecture) → Accuracy: 35–45%
+✅ Dipali’s Model → Accuracy: 45%
+✅ MobileNetV2 → Accuracy: 40%
+✅ EfficientNetB0 → Accuracy: 47%
+
+
+Plan: Build a baseline model + 4 pre-trained models (transfer learning)
+------------------------------------------------------------------------------------------------
+
+📅 02 September 2025
+🔍 EDA & Dataset Challenges
+
+We did EDA and attempted training, but accuracy was not improving 😕
+Raised a ticket with TA 🧑‍🏫 → Suggested to try another dataset
+
+Decided to switch to the FER 2013 Dataset
+👉 FER 2013 Dataset
+https://www.kaggle.com/code/ray27th/facial-emotion-recognition-67-4/input
+✅ Build a model or use pretrained model
+
+🔧 Tuning architecture
+
+🌀 Advanced data augmentation
+------------------------------------------------------------------------------------------------
+
+📅 03 September 2025
+💪 Progress on FER-2013 Dataset
+
+Dataset Size: 35K images (CSV format)
+Dipali’s Model → Achieved 64% accuracy with Data Augmentation
+Hanns's Model → with pretrained EfficientNet with accuracy ... 
+Simon's Model → with pretrained ResNet50 with accuracy 67%
+
+⚡ Next Goal: Create FastAPI , Docker Image 
+
+
+📅 04 September 2025
+💪 Progress on FER-2013 Dataset
+
+
+
+🤖 Testing more pre-trained models
