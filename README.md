@@ -70,6 +70,17 @@ Dataset Size: 35K images (CSV format)
 📅 04 September 2025
 💪 Progress on FER-2013 Dataset
 ------------------------------------------------------------------------------------------------
+Dataset Size: 35K images (CSV format)
+
+✅ Dipali’s Model → Achieved 67% accuracy with Data Augmentation 
+
+✅Simon's Model → with pretrained ResNet50 with accuracy 68%
+
+✅ Hannah created FastAPI, Docker Image
+
+🤖 Testing more pre-trained models
+
+⚡ Next Goal: Tweak with models to achieve good accuracy, Streamlit
 
 
 
