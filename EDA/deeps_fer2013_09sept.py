@@ -19,8 +19,8 @@ from sklearn.metrics import confusion_matrix, classification_report
 # ---------------------------
 # Configuration
 # ---------------------------
-FER_CSV_PATH = "/home/deepa/code/hannahkiesow/face_it/EDA/data/fer2013.csv"
-MODEL_PATH = "/home/deepa/code/hannahkiesow/face_it/face_it_api/models/DeepS_emotion_model.keras"
+FER_CSV_PATH = "/home/deepa/code/hannahkiesow/face_it/face_it_api/models/fer2013.csv"
+MODEL_PATH = "/home/deepa/code/hannahkiesow/face_it/face_it_api/models/DeepS_EM_09sept.keras"
 BATCH_SIZE = 64
 IMAGE_SIZE = 48
 NUM_CLASSES = 7
