@@ -132,3 +132,7 @@ TA's gave us suggestion not to go with multiple models so, we decided to finaliz
 ✅ Hannah working with Fast API, Docker Image and Streamlit.
 
 ✅ Rafa and Anna Working on Presentation slides. 
+
+📅 10 September 2025
+💪 Progress on FER-2013 Dataset
+----------------------------------------------------------------------------------------------
