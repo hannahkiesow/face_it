@@ -78,10 +78,57 @@ Dataset Size: 35K images (CSV format)
 
 ✅ Hannah created FastAPI, Docker Image
 
+✅ Rafa's Model with pretrained model and achieved accuracy of ----%
+
 🤖 Testing more pre-trained models
 
 ⚡ Next Goal: Tweak with models to achieve good accuracy, Streamlit
 
+📅 05 September 2025
+💪 Progress on FER-2013 Dataset
+----------------------------------------------------------------------------------------------
+
+Everybody continued improving their own models.
+
+✅ Dipali’s Model → Achieved 67% accuracy with Data Augmentation. Tried more but accuracy is not improving. 
+
+✅ Simon's Model → with pretrained ResNet50 with accuracy 69%
+
+✅ Hannah's Model with pretrained FaceNet achieved accuracy of 62%
+
+✅ Hannah's Model with pretrained FaceNet achieved accuracy of 62% 
+
+Team set the target for Monday (08 Sept): train their own final models using a new balanced dataset.
+
+
+📅 08 September 2025
+💪 Progress on FER-2013 Dataset
+----------------------------------------------------------------------------------------------
+
+TA's gave us suggestion not to go with multiple models so, we decided to finalize Simon's model with more accuracy of 69% 
+
+✅ Simon's Model → last try for transfer learning 
+
+✅ Dipali’s Model → last try for transfer learning 
+
+✅ Rafa's Model → last try for transfer learning 
+
+✅ Anna's Model → last try for transfer learning and she achieved 50% accuracy with her Model
+
+✅ Hannah working with Streamlit template
 
 
 
+📅 09 September 2025
+💪 Progress on FER-2013 Dataset
+----------------------------------------------------------------------------------------------
+
+TA's gave us suggestion not to go with multiple models so, we decided to finalize Simon's model with more accuracy of 69% 
+
+✅ Simon's Model → with pretrained ResNet50 with accuracy 69% converted to .py and Submitted to Hannah
+
+✅ Dipali’s Model → Achieved 67% accuracy and converted it to .py and submitted to Hannah (Its just for Plan B)
+
+✅ Hannah working with Fast API, Docker Image and Streamlit.
+
+✅ Rafa and Anna Working on Presentation slides. 
